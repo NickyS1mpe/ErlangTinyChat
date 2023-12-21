@@ -6,7 +6,9 @@ This assignment emphasizes message passing between Erlang processes to create a 
 
 ## Overview of TinyChat Assignment
 
-### Assignment Goal: The goal of the TinyChat assignment is to implement a simple chat application in Erlang. The application involves four primary actors: GUIs, Clients, Server, and Chatrooms.
+### Assignment Goal: 
+
+The goal of the TinyChat assignment is to implement a simple chat application in Erlang. The application involves four primary actors: GUIs, Clients, Server, and Chatrooms.
 
 ## User Commands
 Users interact with TinyChat using commands entered into the GUI. The supported commands include /join, /leave, /whoami, /nick, and sending messages.

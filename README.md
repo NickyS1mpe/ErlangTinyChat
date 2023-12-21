@@ -1,10 +1,10 @@
-# ErlangTinyChat
+## ErlangTinyChat
 A Ting Chatroom Written in Erlang
 
 ## Conclusion
 This assignment emphasizes message passing between Erlang processes to create a functional chat application. It covers scenarios related to user interactions, server-client communication, and chatroom management.
 
-# Overview of TinyChat Assignment
+## Overview of TinyChat Assignment
 
 ## Assignment Goal
 The goal of the TinyChat assignment is to implement a simple chat application in Erlang. The application involves four primary actors: GUIs, Clients, Server, and Chatrooms.
